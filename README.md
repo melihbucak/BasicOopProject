@@ -1,0 +1,1 @@
+Basic oop examples (abstract class) with character fights game. I have a base abstract class named Character and i got three different type of character which extended from Character class. This is a simple application for abstract class management.  
